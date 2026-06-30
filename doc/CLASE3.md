@@ -4,7 +4,7 @@ Una interface es un contrato que obliga a una clase a implementar ciertos métod
 Es como una lista de reglas que una clase debe cumplir obligatoriamente.
 Miremoslo como un man que obliga si o si a hacer las cosas a una clase.
 
-### Como implementar una interface 
+## Como implementar una interface
 
 Interface
 
@@ -25,16 +25,23 @@ public class Avion implements Volador {
     }
 }
 ```
+
 yo puedo instanciar una clase
 no puedo instanciar un a interface NO SIRVN PARA INSTANCIAR solo sirve para dar ordenes
 
-## Controuctor
+## Constructor
 
-sirve para contruir objetos sirve para inicializar varaible y solo se ejeucta una vez
-Siempre es publico,lleva el mismo nombre de la clase 
+sirve para contruir objetos, **sirve para inicializar variable y solo se ejeucta una vez**
+Siempre es publico,lleva el mismo nombre de la clase
 no debe haber ninguna clase sin constructor
+No se puedn heredar los constructores
+hay tres tipos de constructores
 
-## Abstrat que es 
+1. sin parametros
+2. con varios parametros
+3. con un solo parametro
+
+## Abstract que es
 
 En Java, abstract es una palabra reservada que se usa para crear clases abstractas y métodos abstractos.
 Una clase abstracta es una clase que no puede ser instanciada directamente.

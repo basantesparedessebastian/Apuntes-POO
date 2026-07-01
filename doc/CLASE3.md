@@ -34,7 +34,7 @@ no puedo instanciar un a interface NO SIRVN PARA INSTANCIAR solo sirve para dar 
 sirve para contruir objetos, **sirve para inicializar variable y solo se ejeucta una vez**
 Siempre es publico,lleva el mismo nombre de la clase
 no debe haber ninguna clase sin constructor
-No se puedn heredar los constructores
+No se puedn heredar los constructores a menos que sean con la palabra Super para llamar al constructor del padre.
 hay tres tipos de constructores
 
 1. sin parametros

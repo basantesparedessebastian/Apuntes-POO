@@ -17,3 +17,47 @@ En Java, toUpperCase() es un método que pertenece a la clase String y se utiliz
 
 ## Ques es el Getter y el Setter
 
+Los getters y setters son métodos especiales que se usan para leer y modificar el valor de los atributos privados de una clase.
+**Getter** = "Obtener" → Sirve para leer un valor.
+**Setter** = "Establecer" → Sirve para modificar un valor.
+
+En Java, por buenas prácticas, los atributos deben ser private (privados). Esto significa que NO se pueden acceder directamente desde otra clase.
+Para poder leerlos o modificarlos desde fuera, usamos getters y setters públicos.
+Esto se llama Encapsulamiento: proteger los datos y controlar cómo se accede a ellos.
+
+ejmplo astetic:
+
+```java
+public class Persona {
+    // Atributos PRIVADOS
+    private String nombre;
+    private int edad;
+    private boolean activo;
+
+    // GETTERS (para leer)
+    public String getNombre() {
+        return nombre;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public boolean isActivo() {  // "is" porque es booleano
+        return activo;
+    }
+
+    // SETTERS (para modificar)
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+
+    public void setActivo(boolean activo) {
+        this.activo = activo;
+    }
+}
+```

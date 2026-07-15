@@ -39,3 +39,5 @@ Casa *-- Habitacion : compone
 
 Estudiante --> Profesor : asociación
 ```
+
+![alt text](image-1.png)

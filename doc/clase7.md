@@ -14,3 +14,6 @@ La Fachada es una clase nueva que:
 
 ![alt text](image.png)
 
+## QUE ES 'THIS'  
+
+ 

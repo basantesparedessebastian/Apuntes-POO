@@ -108,6 +108,8 @@ con layout:
 
 ## que es un DTO ??
 
+### que es un datafile y como se relaciona con los DTO??
+
 ## que es BL (Business logic) ???
 
 ## Que es un DAC (Data Access Component ) ??
@@ -118,8 +120,11 @@ con layout:
 
 ### imagenes absolutas y relativas
 
+### que es un distribuidor de espacios
+
 ### que estudiar
 
+// todo de interfaces y java para el examen
 *Leyes de Gestalt: Cómo el cerebro humano agrupa las cosas por color, forma o cercanía.
 *Jerarquía Visual: Cómo guiar el ojo del usuario para que mire donde tú quieres (lo más importante debe ser lo más grande/llamativo).
 *Accesibilidad: Diseñar para todos (ej. personas daltónicas o con problemas de visión).

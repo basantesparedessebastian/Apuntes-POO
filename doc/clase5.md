@@ -1,4 +1,4 @@
-# que es super clase
+# Que es una Super Clase
 
 En Java, una superclase (también conocida como clase padre, clase base o clase superior) es una clase de la cual otras clases heredan sus atributos (variables) y comportamientos (métodos).
 La clase que hereda de la superclase se llama subclase (o clase hija).
@@ -9,13 +9,13 @@ Se utiliza dentro de la subclase para hacer referencia directa a la superclase. 
 
 En Java, una subclase solo puede tener una superclase directa (herencia simple). Sin embargo, una superclase puede tener múltiples subclases. Además, las superclases pueden tener sus propias superclases, formando una jerarquía (árbol de herencia).
 
-llaman al constructor del padre 
+llaman al constructor del padre.
 
 ## Que es toUperCase
 
 En Java, toUpperCase() es un método que pertenece a la clase String y se utiliza para convertir todas las letras minúsculas de una cadena de texto a mayúsculas.
 
-## Ques es el Getter y el Setter
+## Que es el Getter y el Setter
 
 Los getters y setters son métodos especiales que se usan para leer y modificar el valor de los atributos privados de una clase.
 **Getter** = "Obtener" → Sirve para leer un valor.

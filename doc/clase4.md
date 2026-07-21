@@ -7,6 +7,7 @@ En Java, el polimorfismo permite que un mismo método o referencia se comporte d
 
 por ejemplo:
 Supongamos que tenemos la clase padre
+
 ```java
 class Animal {
     public void hacerSonido() {
@@ -14,7 +15,9 @@ class Animal {
     }
 }
 ```
+
 y dos clases hijas:
+
 ```java
 class Perro extends Animal {
     @Override
@@ -30,6 +33,7 @@ class Gato extends Animal {
     }
 }
 ```
+
 Entonces el programa principal es:
 
 ```java

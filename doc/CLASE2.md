@@ -30,7 +30,9 @@ public class Persona {
 
 ```
 
-**Clase Hija astetic**
+---
+
+### Clase Hija astetic
 
 ```java
 
@@ -43,5 +45,5 @@ public class Estudiante extends Persona {
 }
 
 ```
-aqui damos a entender un ejemplo claro de lo que es herencia y como usarla correctamente, sirve principalmente para reutilizar codigo y no escribirlo de nuevo
 
+aqui damos a entender un ejemplo claro de lo que es herencia y como usarla correctamente, sirve principalmente para reutilizar codigo y no escribirlo de nuevo.

@@ -65,7 +65,3 @@ En estos diagramas hay cuatro partes fundamentales
    _____________>      //flecha normal
    <------------       siempre con la palabra < include >  //esta elige Y tambien esta de aca
    ------------->      siempre con la palabra < extense >  //si quieres la elige o si quiere elige otra
-   
-//mas especificaciones en las hojas de apuntes
-
-
